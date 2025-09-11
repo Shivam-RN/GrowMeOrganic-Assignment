@@ -1,0 +1,23 @@
+
+h3 {
+  color: #2e7d32; 
+  margin-bottom: 1rem;
+}
+
+.artwork-table-wrapper {
+  background-color: white;
+  border: 3px solid transparent;
+  border-image: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #ffeaa7, #fd79a8) 1;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.12), 0 0 20px rgba(255, 107, 107, 0.3);
+  
+}
+
+.p-button {
+  border-radius: 6px;
+}
+
+.p-datatable .p-datatable-thead > tr > th {
+  background-color: #e8f5e9; /* light green header */
+}
